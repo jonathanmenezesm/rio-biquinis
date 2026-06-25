@@ -1,10 +1,8 @@
-# Ignorar arquivos temporários
+
 *.log
 *.tmp
-
-# Ignorar diretórios
 node_modules/
 dist/
-
-# Ignorar arquivos específicos
 secret.env
+*.docx
+*.pdf
